@@ -1,0 +1,15 @@
+{
+    "name": "Mirtilo.Template.Editor.Tests",
+    "rootNamespace": "Mirtilo.Template.Editor.Tests",
+    "references": [
+        "Mirtilo.Template",
+        "Mirtilo.Template.Editor"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": []
+}

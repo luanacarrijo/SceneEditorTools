@@ -1,0 +1,12 @@
+{
+    "name": "Mirtilo.Template.Tests",
+    "rootNamespace": "Mirtilo.Template.Tests",
+    "references": [
+        "Mirtilo.Template"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": []
+}

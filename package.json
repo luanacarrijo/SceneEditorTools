@@ -1,0 +1,32 @@
+{
+    "name": "com.mirtilo.template",
+    "displayName": "Template",
+    "version": "0.0.1",
+    "description": "This is an empty template for a package.",
+    "unity": "2020.1",
+    "keywords": [
+        "unity",
+        "package",
+        "template"
+    ],
+    "homepage": "https://example.com",
+    "bugs": {
+        "url": "https://example.com/bugs"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://example.com/"
+    },
+    "license": "MIT",
+    "licensesUrl": "https://example.com/licensing.html",
+    "documentationUrl": "https://example.com/",
+    "changelogUrl": "https://example.com/changelog.html",
+    "peerDependencies": {
+        "com.unity.nuget.newtonsoft-json": "3.0.0"
+    },
+    "author": {
+        "name": "Mirtilo",
+        "email": "email@email.com",
+        "url": "https://example.com"
+    }
+}
