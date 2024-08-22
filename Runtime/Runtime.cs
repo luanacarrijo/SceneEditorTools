@@ -1,8 +1,8 @@
 using UnityEngine;
 
-namespace Mirtilo.Template
+namespace Mirtilo.SceneTools
 {
-    public class TemplateRuntime : MonoBehaviour
+    public class SceneToolsRuntime : MonoBehaviour
     {
 
     }

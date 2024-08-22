@@ -1,8 +1,12 @@
 {
-    "name": "Mirtilo.Template",
-    "rootNamespace": "Mirtilo.Template",
-    "references": [],
-    "includePlatforms": [],
+    "name": "Mirtilo.SceneTools.Editor",
+    "rootNamespace": "Mirtilo.SceneTools.Editor",
+    "references": [
+        "Mirtilo.SceneTools"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
     "overrideReferences": false,

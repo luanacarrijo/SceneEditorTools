@@ -1,8 +1,8 @@
 {
-    "name": "Mirtilo.Template.Tests",
-    "rootNamespace": "Mirtilo.Template.Tests",
+    "name": "Mirtilo.SceneTools.Tests",
+    "rootNamespace": "Mirtilo.SceneTools.Tests",
     "references": [
-        "Mirtilo.Template"
+        "Mirtilo.SceneTools"
     ],
     "optionalUnityReferences": [
         "TestAssemblies"

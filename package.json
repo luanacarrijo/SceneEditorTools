@@ -1,13 +1,13 @@
 {
-    "name": "com.mirtilo.template",
-    "displayName": "Template",
+    "name": "com.mirtilo.scenetools",
+    "displayName": "SceneTools",
     "version": "0.0.1",
-    "description": "This is an empty template for a package.",
+    "description": "This is an empty scenetools for a package.",
     "unity": "2020.1",
     "keywords": [
         "unity",
         "package",
-        "template"
+        "scenetools"
     ],
     "homepage": "https://example.com",
     "bugs": {

@@ -4,17 +4,17 @@ using UnityEngine;
 using UnityEngine.TestTools;
 using UnityEditor;
 
-namespace Mirtilo.Template.Tests
+namespace Mirtilo.SceneTools.Tests
 {
-    public class TemplateRuntimeTests
+    public class SceneToolsRuntimeTests
     {
         [Test]
-        public void TemplateRuntimeSimplePasses()
+        public void SceneToolsRuntimeSimplePasses()
         {
         }
 
         [UnityTest]
-        public IEnumerator TemplateRuntimeWithEnumeratorPasses()
+        public IEnumerator SceneToolsRuntimeWithEnumeratorPasses()
         {
             yield return null;
         }
